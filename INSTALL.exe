@@ -1,0 +1,7 @@
+composer create-project laravel/laravel:^9.2 <proj-name>
+
+npm install npm install vue@^3.2 vue-loader@next
+
+npm i @vitejs/plugin-vue
+
+("type": "module", добавить в package.json)
